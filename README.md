@@ -70,7 +70,7 @@ You will need to use a Kaggle kernal to run the code.
 - In Kaggle, go to the homepage, and select the <> code from the panel of options on the left hand side.  
 - Click + New Notebook and then click file --> import new notebook and upload this notebook. 
 - On the right hand side, click + Add data --> then select Competition Data and search for SETI Breakthrough Listen - E.T Signal Search. Click add. 
-- Next, run all to exceute the python script
+- Next, run all to execute the python script
 
 
 ## **Licensing and Acknowledgements**
