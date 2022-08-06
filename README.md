@@ -1,4 +1,4 @@
-# Udacity-Capstone-Project_SETI-Breakthough-Listen
+# Udacity-Capstone-Project_SETI-Breakthrough-Listen
 
 ### SETI Breakthrough Listen - E.T. Signal Search : Find extraterrestrial signals in data from deep space
 
