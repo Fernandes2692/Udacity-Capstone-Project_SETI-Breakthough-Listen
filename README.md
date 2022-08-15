@@ -2,7 +2,7 @@
 
 ### SETI Breakthrough Listen - E.T. Signal Search : Find extraterrestrial signals in data from deep space
 
-#### “Are we alone in the Universe?”
+#### “Are we alone in the Universe?” :alien:
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -41,17 +41,17 @@ The task was to predict whether the spectrograms contained signals from E.T or n
 
 ## **Data Description**
 
-:alien: FilterBank Format : 
+🛸 FilterBank Format : 
 2D Arrays of intensity as a function of frequency and time, accompanied by headers containing metadata such as the direction the telescope was pointed in, the frequency scale.  </br>
-:alien: Snippets : 
+🛸 Snippets : 
 Numpy arrays consisting of small regions of the spectrograms .  </br>
-:alien: Technosignatures : 
+🛸 Technosignatures : 
 Technosignature or technomarker is any measurable property or effect that provides scientific evidence of past or present technology. Technosignatures are analogous to the biosignatures that signal the presence of life, whether or not intelligent.  </br>
-:alien: Cadence Snippets : 
+🛸 Cadence Snippets : 
 Consider three nearby stars A , B and C to our primary target. Isolation of candidate technosignatures from RFI happens by alternating observations of primary target star with observations of three nearby stars . 5 minutes on star “A”, then 5 minutes on star “B”, then back to star “A” for 5 minutes, then “C”, then back to “A”, then finishing with 5 minutes on star “D”. One set of six observations (ABACAD) is referred to as a “cadence”.  </br>
-:alien: Haystack : 
+🛸 Haystack : 
 Thousands of cadence snippets put together is referred to as haystack  </br>
-:alien: Needle Signal /Target : 
+🛸 Needle Signal /Target : 
 The goal of this problem is to identify the hidden needle signals in this haystack .
 
 ## **Files**
