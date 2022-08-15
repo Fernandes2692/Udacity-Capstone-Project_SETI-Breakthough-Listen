@@ -33,7 +33,7 @@
 
 Breakthrough Listen (BL) is a ten-year initiative to search for signatures of technologically capable life beyond Earth via radio and optical observations of the local Universe.
 
-In this project, I use the data science skills I have learnt throughout the Udacity nanodegree so far, to help identify anomalous signals in scans of Breakthrough Listen targets. </br> 
+In this project, I use the data science skills I have learnt throughout the Udacity nanodegree so far, to help identify anomalous signals in scans of Breakthrough Listen targets. This project is carried out by using machine and deep learning methods on protoype signals in the search for extraterrestrial intelligence. </br> 
 
 **NB:** Because there are no confirmed examples of alien signals to use to train machine learning algorithms, the team included some simulated signals (that they refer to as “needles”) in the haystack of data from the telescope. They have identified some of the hidden needles so that you can train your model to find more. The data consist of two-dimensional arrays, so there may be approaches from computer vision that are promising, as well as digital signal processing, anomaly detection, and more. 
 
